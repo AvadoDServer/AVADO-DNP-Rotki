@@ -1,9 +1,23 @@
 {
   "0.0.1": {
-    "hash": "/ipfs/QmWX8i5Q5kzzacKtiLLpF3U3E2zSpL9dEzBV3MRK5btkP2",
+    "hash": "/ipfs/QmRWz5LhXQKsYb1wgXvAfme12qzVzLDhmnd6KzMWRpouEC",
     "type": "manifest",
     "uploadedTo": {
-      "dappnode": "Sun, 05 Dec 2021 13:41:15 GMT"
+      "dappnode": "Mon, 13 Dec 2021 15:46:22 GMT"
+    }
+  },
+  "0.0.2": {
+    "hash": "/ipfs/QmSuLbKFYphXgiH229WgWitbdxe2S8Gyn5BzsAp82VYaLC",
+    "type": "manifest",
+    "uploadedTo": {
+      "http://80.208.229.228:5001": "Mon, 13 Dec 2021 15:57:55 GMT"
+    }
+  },
+  "0.0.3": {
+    "hash": "/ipfs/QmaJyy5rQiNSUUgUtbgwFmePUC24PReAJw7jJeD7pWVJ5q",
+    "type": "manifest",
+    "uploadedTo": {
+      "http://80.208.229.228:5001": "Mon, 13 Dec 2021 16:09:52 GMT"
     }
   }
 }

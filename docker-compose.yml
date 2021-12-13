@@ -1,7 +1,7 @@
 version: '3.4'
 services:
   rotki.avado.dnp.dappnode.eth:
-    image: 'rotki.avado.dnp.dappnode.eth:0.0.1'
+    image: 'rotki.avado.dnp.dappnode.eth:0.0.3'
     build:
       context: ./build
       args:
@@ -10,7 +10,7 @@ services:
       - 'data:/data'
       - 'logs:/logs'
     ports:
-      - '8084:80'
+      - '4443:433'
     environment:
       - EXTRA_OPTS=
 volumes:
