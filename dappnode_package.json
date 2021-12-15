@@ -1,6 +1,6 @@
 {
   "name": "rotki.avado.dnp.dappnode.eth",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "upstream": "v1.22.2",
   "title": "Rotki",
   "description": "Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy",
@@ -15,9 +15,9 @@
     "ports": [
       "4443:443"
     ],
-    "path": "rotki.avado.dnp.dappnode.eth_0.0.3.tar.xz",
-    "hash": "/ipfs/QmQSNPom4U8m9jC8rcvQVsNCTGrp5fiKM9oSUNEBe8JQRB",
-    "size": 77682364,
+    "path": "rotki.avado.dnp.dappnode.eth_0.0.4.tar.xz",
+    "hash": "/ipfs/QmbLgWLWUtKA1HGRZMJUSayJrj7v8RDKfeWWousfQwAPeb",
+    "size": 77657152,
     "restart": "always"
   },
   "author": "heeckhau",
@@ -27,5 +27,5 @@
     "HomePage": "https://rotki.com",
     "Documentation": "https://rotki.readthedocs.io/en/latest/"
   },
-  "builddate": "2021-12-15T10:13:20.370Z"
+  "builddate": "2021-12-15T14:09:26.485Z"
 }
