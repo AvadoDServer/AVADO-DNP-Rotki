@@ -21,7 +21,7 @@ Open Rotki on the DappStore page and click **Install**
 
 There are thee ways to open Rotki:
 1. The easiest method is to open Rotki in the Avado UI (over VPN): Click on the **Open** button of the Rotki package. This opens Rotki inside the Avado UI.
-2. You can also open <http://my.rotki.avado.dnp.dappnode.eth/> to open outside of the Avado UI. Note that this still requires an active VPN connection.
+2. You can also open <https://rotki.my.ava.do/> to open outside of the Avado UI. Note that this still requires an active VPN connection.
 3. Check your IP address in the Avado UI and open <https://your-ip-address:4443> to open Rotki on your local network without an active VPN. *Note that you need to trust your network to do this.*
 
 ### Create a user
