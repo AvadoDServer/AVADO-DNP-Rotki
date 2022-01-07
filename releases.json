@@ -26,5 +26,12 @@
     "uploadedTo": {
       "http://80.208.229.228:5001": "Wed, 15 Dec 2021 14:09:26 GMT"
     }
+  },
+  "0.0.6": {
+    "hash": "/ipfs/QmRVGmcFc39JoE7XaSC7EbwXXCmFTH5yjQ2yH2ERGx8kvD",
+    "type": "manifest",
+    "uploadedTo": {
+      "dappnode": "Sat, 01 Jan 2022 22:43:32 GMT"
+    }
   }
 }
