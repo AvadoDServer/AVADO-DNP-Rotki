@@ -1,14 +1,6 @@
 # AVADO Rotki
 
-TODO: introduction
-
-## Installation
-
-TODO
-
-## Documentation
-
-TODO: add link to page on wiki
+https://wiki.ava.do/en/tutorials/rotki
 
 ## Development
 
