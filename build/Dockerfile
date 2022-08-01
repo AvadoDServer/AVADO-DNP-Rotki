@@ -1,5 +1,5 @@
 ARG VERSION=latest
-FROM rotki/rotki:${VERSION}
+FROM --platform=linux/amd64 rotki/rotki:${VERSION}
 
 # Set up nginx config
 COPY ssl.conf /etc/nginx/conf.d/ssl.conf
