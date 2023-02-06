@@ -1,11 +1,11 @@
 version: '3.4'
 services:
   rotki.avado.dnp.dappnode.eth:
-    image: 'rotki.avado.dnp.dappnode.eth:0.0.19'
+    image: 'rotki.avado.dnp.dappnode.eth:0.0.20'
     build:
       context: ./build
       args:
-        VERSION: v1.26.3
+        VERSION: v1.27.0
     volumes:
       - 'data:/data'
       - 'logs:/logs'
