@@ -1,7 +1,7 @@
 version: '3.4'
 services:
   rotki.avado.dnp.dappnode.eth:
-    image: 'rotki.avado.dnp.dappnode.eth:0.0.21'
+    image: 'rotki.avado.dnp.dappnode.eth:0.0.23'
     build:
       context: ./build
       args:
