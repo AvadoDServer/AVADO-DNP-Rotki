@@ -1,7 +1,7 @@
 {
   "name": "rotki.avado.dnp.dappnode.eth",
-  "version": "0.0.23",
-  "upstream": "v1.29.0",
+  "version": "0.0.24",
+  "upstream": "v1.30.1",
   "title": "Rotki",
   "description": "Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy",
   "mainService": "Rotki is an open source portfolio tracker, accounting and analytics tool that protects your privacy",
@@ -14,7 +14,7 @@
       "logs:/logs"
     ],
     "ports": [
-      "4443:443"
+      "443"
     ],
     "restart": "always"
   },
